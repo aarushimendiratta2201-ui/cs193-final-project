@@ -15,7 +15,7 @@ The minimum viable product consists of a Bash script that adds a blank line to `
 * Alternate between adding and removing spaces so as to not add too much extra space
   
 ## Tech Stack
-* **Language:** Bash (Shell Scripting), YAML (GitHub Actions Workflow)
-* **Shell Commands:** `bash`, `echo`, `git config`, `git add`, `git commit`, `git push`, `chmod`
-* **Automation Platform:** GitHub Actions (`cron` scheduled trigger)
-* **Data Storage:** Flat markdown file (`README.md`)
+* Language: Bash, YAML (for GitHub Actions )
+* Shell Commands & Built-ins: bash, echo, git config, git add, git commit, git push, chmod
+* Version Control Platform: GitHub 
+* System Design: draw.io flowchart
